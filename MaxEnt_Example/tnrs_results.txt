@@ -1,0 +1,7 @@
+Name_submitted	Name_matched	Author_matched	Overall_score	Taxonomic_status	Accepted_name	Accepted_author	Accepted_family	Source	Warnings	Accepted_name_lsid	user_id
+x	x		0.5	No opinion				tropicos	 [Partial match] 		""
+Asclepias curtissii	Asclepias curtissii		1	Accepted	Asclepias curtissii	A. Gray	Apocynaceae	tropicos;usda	 		"1"
+Pityothamnus obovatus	Pityothamnus obovatus		1	Synonym	Asimina obovata	(Willd.) Nash	Annonaceae	tropicos;usda	 		"2"
+Asimina obovata	Asimina obovata		1	Accepted	Asimina obovata	(Willd.) Nash	Annonaceae	tropicos;usda	 		"3"
+Pinus palustris	Pinus palustris		1	Accepted	Pinus palustris	Mill.	Pinaceae	tropicos;usda	 		"4"
+Pinus australis	Pinus australis		1	Synonym	Pinus palustris	Mill.	Pinaceae	tropicos	 		"5"
